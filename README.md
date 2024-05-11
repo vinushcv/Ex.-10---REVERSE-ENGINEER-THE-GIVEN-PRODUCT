@@ -32,13 +32,13 @@
 
 ## Input:
 
-![image](https://github.com/vinushcv/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113975318/13558e6c-59d1-4fcb-9765-5f363a407e02)
+![image](https://github.com/vinushcv/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113975318/13e36482-05a9-4d2d-9d1b-a4799eb0a21b)
+
 
 
 ### Output:
 
-![Uploading image.png…]()
-
+![image](https://github.com/vinushcv/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113975318/13558e6c-59d1-4fcb-9765-5f363a407e02)
 
 ### Name:  Vinush.CV  
 ### Register Number:  212222230176
