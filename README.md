@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.4   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -32,11 +32,16 @@
 
 ## Input:
 
+![image](https://github.com/vinushcv/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113975318/13558e6c-59d1-4fcb-9765-5f363a407e02)
+
+
 ### Output:
 
+![Uploading image.png…]()
 
-### Name:
-### Register Number:
+
+### Name:  Vinush.CV  
+### Register Number:  212222230176
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
